@@ -1,5 +1,4 @@
 <div align="center">
-    <a href="https://github.com/mdivs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdivs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdivs&layout=compact&langs_count=10&theme=midnight-purple"/>
 </div>
@@ -29,6 +28,9 @@ Here are some ideas to get you started:
     </a>
     <a href="https://www.linkedin.com/in/mdivs" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://wa.me/5571985063146?text=Ol%C3%A1,%20vim%20pelo%20Github" target="_blanck">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
 </div>
 
