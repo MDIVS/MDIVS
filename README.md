@@ -1,4 +1,4 @@
-Hi! Could I [help](https://github.com/MDIVS/help) you?
+Hey! May I [help](https://github.com/MDIVS/help) you?
 
 <div align="center">
     <a href="https://www.youtube.com/channel/UCd2Nl0pywdqhX8Hk-hSE4Ew" target="_blank">
